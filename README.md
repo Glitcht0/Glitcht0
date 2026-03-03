@@ -4,7 +4,13 @@
 [![Lattes](https://img.shields.io/badge/Currículo-Lattes-green?style=flat-square&logo=lattes)](SEU_LINK_DO_LATTES_AQUI)
 [![E-mail](https://img.shields.io/badge/Email-Contato-red?style=flat-square&logo=gmail)](mailto:mh.almeidalima10@gmail.com)
 
-Graduando na Universidade Federal da Grande Dourados (UFGD). 
+
+<p align="center">
+  <img src="img/suafoto.jpg" alt="Marcos Henrique" width="150">
+</p>
+Graduando na Universidade Federal da Grande Dourados (UFGD).
+<br>
+
 
 **Candidato à Bolsa de Iniciação ao Extensionismo (IEX) - Perfil: [ESCREVA AQUI: Robótica Educacional / Prototipagem Maker / Comunicação Digital]**
 
