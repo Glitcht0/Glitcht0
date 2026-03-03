@@ -1,6 +1,5 @@
 # Marcos Henrique Almeida Lima
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](SEU_LINK_AQUI)
 [![Lattes](https://img.shields.io/badge/Currículo-Lattes-green?style=flat-square&logo=lattes)](SEU_LINK_DO_LATTES_AQUI)
 [![E-mail](https://img.shields.io/badge/Email-Contato-red?style=flat-square&logo=gmail)](mailto:mh.almeidalima10@gmail.com)
 
@@ -27,8 +26,21 @@ Todos os projetos apresentados são de minha autoria e estou apto a detalhar tec
 
 ## 🚀 Principais Projetos e Evidências
 
+### ⚙️ Impressão 3D e Modelagem
+* **Descrição:** Desenvolvimento de projetos de modelagem 3D utilizando Blender, com foco em peças, caixas de circuitos e figures para impressão 3D.
+* **Tecnologias:** Blender, Creality print, Gimp.
+
+<p align="center">
+  <img src="img/3D.png" width="400"/>
+  
+</p>
+
+<p align="center">
+  <em>Impressão 3D e pintura de peças</em>
+</p>
+
 ### 🤖 Automação e Microcontroladores (Arduino/ESP32)
-*Relacionado ao Perfil Robótica/Maker*
+
 * **Descrição:** Desenvolvimento de circuitos e programação de microcontroladores utilizando placas como Arduino Nano e ESP32, incluindo a integração e configuração de diversos sensores para coleta de dados, como sensores de temperatura, sensores infravermelhos.,.
 * **Tecnologias:** C/C++, Eletrônica, IDE Arduino.
 * **Link do repositório:** [[esp_audio](https://github.com/Glitcht0/esp_audio)]
@@ -38,13 +50,13 @@ Todos os projetos apresentados são de minha autoria e estou apto a detalhar tec
 </p>
 
 <p align="center">
-  <em>Som automotivo feito por mim.</em>
+  <em>Som automotivo feito por mim. Impressão em 3D</em>
 </p>
 
 <br>
 
 ### 👾 Desenvolvimento de Motor de Jogo (C++ e Raylib)
-*Relacionado ao Perfil Robótica (Programação em C)*
+
 * **Descrição:** Desenvolvimento de engine própria em C++ utilizando Raylib, com foco em performance e geração procedural de mundo.
 * **Tecnologias:** C++, Raylib, Lógica de Programação.
 
@@ -59,7 +71,7 @@ Todos os projetos apresentados são de minha autoria e estou apto a detalhar tec
 <br>
 
 ### 💻 Sistema de Venda online no Atacado
-*Relacionado à Gestão de Projetos e Programação*
+
 * **Descrição:** Desenvolvimento de sistema de vendas online em Django para gestão comercial, incluindo controle de pedidos e interface Web.
 * **Tecnologias:** Python, Django, HTML.
 
