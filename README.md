@@ -8,20 +8,20 @@
 <p align="center">
   <img src="img/suafoto.jpg" alt="Marcos Henrique" width="150">
 </p>
-Graduando na Universidade Federal da Grande Dourados (UFGD).
+Graduando na Universidade Federal da Grande Dourados (UFGD). Desenvolvedor Web, entusiasta de robótica e tecnologia, foco em baixo nível de programação, Modelador 3D, Game Developer e desenvolvedor de tecnologia.
 <br>
 
+Todos os projetos apresentados são de minha autoria e estou apto a detalhar tecnicamente cada um deles.
 
-**Candidato à Bolsa de Iniciação ao Extensionismo (IEX) - Perfil: [ESCREVA AQUI: Robótica Educacional / Prototipagem Maker / Comunicação Digital]**
 
 ---
 
 ## 🛠️ Habilidades Técnicas
 
-* **Linguagens & Frameworks:** C/C++, Python, Django, HTML, JSON.
-* **Eletrônica & Robótica:** Microcontroladores (Arduino Nano, ESP32), integração de sensores, leitura de diagramas de circuitos.
-* **Sistemas & Infraestrutura:** Configuração de servidores (Jellyfin/CasaOS), ambiente WSL2.
-* **Softwares & Bibliotecas:** Raylib, Betaflight/iNav, Sildur's Vibrant Shaders.
+* **Linguagens & Frameworks:** C/C++, Python, Django, Flask, HTML, JSON.
+* **Eletrônica & Robótica:** Microcontroladores (Arduino Nano, ESP32), integração de sensores e motores, prototipagem de circuitos.
+* **Sistemas & Infraestrutura:** Configuração de servidores físicos (Jellyfin/CasaOS/EvolutionApi), ambiente WSL2.
+* **Softwares & Bibliotecas:** Raylib, VS Code, Blender, Gimp, Creality print.
 
 ---
 
@@ -29,32 +29,46 @@ Graduando na Universidade Federal da Grande Dourados (UFGD).
 
 ### 🤖 Automação e Microcontroladores (Arduino/ESP32)
 *Relacionado ao Perfil Robótica/Maker*
-* **Descrição:** Desenvolvimento de circuitos e programação de microcontroladores utilizando placas como Arduino Nano e ESP32, incluindo a integração e configuração de diversos sensores para coleta de dados.
-* **Tecnologias:** C/C++, Eletrônica Básica, IDE Arduino.
+* **Descrição:** Desenvolvimento de circuitos e programação de microcontroladores utilizando placas como Arduino Nano e ESP32, incluindo a integração e configuração de diversos sensores para coleta de dados, como sensores de temperatura, sensores infravermelhos.,.
+* **Tecnologias:** C/C++, Eletrônica, IDE Arduino.
+* **Link do repositório:** [[esp_audio](https://github.com/Glitcht0/esp_audio)]
 
-### 🚁 Modificação e Upgrade de Drones (Hardware/Software)
-*Relacionado ao Perfil Maker/Robótica*
-* **Descrição:** Conversão e adaptação de um drone modelo Bayangtoys X16 para operar com controladoras de voo modernas. O processo envolveu a substituição de componentes físicos e a configuração de firmwares avançados (Betaflight e iNav) para otimização de voo.
-* **Tecnologias:** Eletrônica, Betaflight, iNav, Prototipagem.
+<p align="center">
+  <img src="img/circuito.jpg" width="400"/>
+</p>
+
+<p align="center">
+  <em>Som automotivo feito por mim.</em>
+</p>
+
+<br>
 
 ### 👾 Desenvolvimento de Motor de Jogo (C++ e Raylib)
 *Relacionado ao Perfil Robótica (Programação em C)*
-* **Descrição:** Programação e depuração de um projeto de desenvolvimento de jogos do zero utilizando a linguagem C++ integrada à biblioteca gráfica Raylib, focando em performance e renderização.
+* **Descrição:** Desenvolvimento de engine própria em C++ utilizando Raylib, com foco em performance e geração procedural de mundo.
 * **Tecnologias:** C++, Raylib, Lógica de Programação.
-* **Link do repositório:** [Inserir Link se for público]
 
-### 💻 Sistema de Catálogo de Produtos Web
+<p align="center">
+  <img src="img/jogo.png" width="400"/>
+</p>
+
+<p align="center">
+  <em>Jogo 3D com aspecto 2D de mundo procedural, engine própria</em>
+</p>
+
+<br>
+
+### 💻 Sistema de Venda online no Atacado
 *Relacionado à Gestão de Projetos e Programação*
-* **Descrição:** Desenvolvimento de um sistema de catálogo para a empresa Mega Distribuidora Sales. O sistema gerencia a adição, alteração e remoção de itens em tempo real.
+* **Descrição:** Desenvolvimento de sistema de vendas online em Django para gestão comercial, incluindo controle de pedidos e interface Web.
 * **Tecnologias:** Python, Django, HTML.
-* **Link do repositório:** [Inserir Link se for público]
 
-### 🎨 Design de Identidade Visual (Gênesis Estruturas)
-*Relacionado ao Perfil Comunicação*
-* **Descrição:** Criação de logotipo e identidade visual para a empresa Gênesis Estruturas e Pré-Moldados, aplicando conceitos de design digital.
-* **Ferramentas:** [Inserir ferramenta usada, ex: Illustrator, Canva, Photoshop].
+<p align="center">
+  <img src="img/sistema_vendas.png" width="400"/>
+</p>
 
----
+<p align="center">
+  <em>Sistema de vendas online desenvolvido por mim.</em>
+</p>
 
-## 🎯 Motivação para o Programa Mais Ciência na Escola
-Acredito que a tecnologia deve ser acessível e prática. Minha experiência criando desde servidores pessoais (com CasaOS) até programando placas ESP32 me deu a base técnica necessária para auxiliar professores e alunos nos Laboratórios Maker. Tenho facilidade em traduzir conceitos complexos de programação e eletrônica de forma didática, o que se alinha perfeitamente ao objetivo de popularização da ciência e uso pedagógico da robótica no estado de Mato Grosso do Sul.
+
