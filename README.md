@@ -2,7 +2,9 @@
 
 [![Lattes](https://img.shields.io/badge/Currículo-Lattes-green?style=flat-square&logo=lattes)](https://lattes.cnpq.br/9372307275833935)
 [![E-mail](https://img.shields.io/badge/Email-Contato-red?style=flat-square&logo=gmail)](mailto:mh.almeidalima10@gmail.com)
+[![Socketfab](https://img.shields.io/badge/Modelos-3D-blue?style=flat-square&logo=socketfab)](https://sketchfab.com/Glitcht3000)
 
+link da scketfab site de modelo 3Dacima
 
 <p align="center">
   <img src="img/suafoto.jpg" alt="Marcos Henrique" width="150">
