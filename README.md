@@ -1,6 +1,6 @@
 # Marcos Henrique Almeida Lima
 
-[![Lattes](https://img.shields.io/badge/Currículo-Lattes-green?style=flat-square&logo=lattes)](SEU_LINK_DO_LATTES_AQUI)
+[![Lattes](https://img.shields.io/badge/Currículo-Lattes-green?style=flat-square&logo=lattes)](https://lattes.cnpq.br/9372307275833935)
 [![E-mail](https://img.shields.io/badge/Email-Contato-red?style=flat-square&logo=gmail)](mailto:mh.almeidalima10@gmail.com)
 
 
